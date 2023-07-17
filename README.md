@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+      <img height="100%" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniortavaress&layput=compact&langs_count=16&theme=tokyonight"/>
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,6 +22,6 @@ Here are some ideas to get you started:
   
   ##
  <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniortavaress&show_icons=true=&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniortavaress&layput=compact&langs_count=16&theme=tokyonight"/>
+   <img height="100%" width="42%" src="https://github-readme-stats.vercel.app/api?username=juniortavaress&show_icons=true=&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
  </div>
