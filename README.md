@@ -6,22 +6,31 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juniortavares&show_icons=true&count_private=true&hide_border=true&title_color=4e46c3&icon_color=4e46c3&text_color=c9d1d9&bg_color=0d1117" alt="Junior Tavares github stats" /> 
-
+</div>
+ 
 <!--
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniortavaress&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 -->
+<br> 
+
+<div align="center">  
+  <div style="text-align: center;">
+    <h3>Knowledge areas:</h3>
+    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117">
+    <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117">
+    <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117">
+  </div>
+</div>
+
+<br> 
+<br> 
 
 <div align="center"> 
-<a href="https://www.instagram.com/juninhotavares__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:juceliojunior27@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jucélio-tavares-junior-841292216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.instagram.com/juninhotavares__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:juceliojunior27@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jucélio-tavares-junior-841292216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
-### Knowledge areas:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)
 
-
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e46c3&height=120&section=footer"/>
