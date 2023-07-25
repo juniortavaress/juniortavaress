@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
       <img height="100%" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniortavaress&layput=compact&langs_count=16&theme=tokyonight"/>
--->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
-  
-  ##
- <div>
-   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=juniortavaress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
- </div>
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Jucélio+Tavares+Junior;I'm+21+years+old;I'm+from+Brazil;I'm+a+Mechanical+Engineer+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+-->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=010da1&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=010da1&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Jucélio+Tavares+Junior;I'm+21+years+old;I'm+from+Brazil;I'm+a+Mechanical+Engineer+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
