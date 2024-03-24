@@ -19,8 +19,8 @@
   <div style="text-align: center;">
     <h3>Knowledge areas:</h3>
     <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117">
-    <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117&textColor=0D1117">
     <img src="https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117&textColor=0D1117">
+    <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117&textColor=0D1117">
     <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117">
     <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117">
   </div>
