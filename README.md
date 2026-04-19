@@ -4,11 +4,13 @@
   <div style="text-align: center;">
     <h3>Knowledge areas:</h3>
     <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&textColor=0D1117">
+    <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117&textColor=0D1117">
     <img src="https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117&textColor=0D1117">
-    <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117">
-    <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
-    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117">
+    <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+    <img src="https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
     <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=red">
   </div>
 </div>
